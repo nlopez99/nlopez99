@@ -4,6 +4,6 @@
     
   [![Stats](http://my-gh-stats.vercel.app/api?username=nlopez99&count_private=true&show_icons=true&theme=tokyonight&hide_border=true)](https://github.com/nlopez99)
 
-  [![Top Langs](http:/my-gh-stats.vercel.app/api/top-langs/?username=nlopez99&count_private=true&theme=tokyonight&layout=compact&hide_border=true)](https://github.com/nlopez99)
+  ![Top Langs](https://my-gh-stats.vercel.app/api/top-langs/?username=nlopez99&size_weight=0.5&count_weight=0.5)
   
 </div>
