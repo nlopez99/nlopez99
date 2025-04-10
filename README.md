@@ -1,5 +1,1 @@
-<div align=center>
-
-  [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=nlopez99&count_private=true&theme=tokyonight&hide_border=true&date_format=M%20j%5B%2C%20Y%5D)](https://github.com/nlopez99)
-  
-</div>
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=nlopez99&theme=nightowl&hide_border=true&short_numbers=true&date_format=n%2Fj%5B%2FY%5D)](https://git.io/streak-stats)
